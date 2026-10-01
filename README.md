@@ -12,7 +12,6 @@
 
 - 📊 I build data pipelines and dashboards that turn raw numbers into decisions — Power BI, Tableau, and Python are my daily tools
 - 🤖 I design and ship AI-powered systems, from OCR + LLM invoice extraction to time-series forecasting models
-- 🔗 I research Blockchain + IPFS architectures for decentralized data systems
 - 🧠 I work across the full analytics stack — data cleaning, statistical modeling, ML, and visualization
 - 🎯 Actively looking for roles in **Data Analytics, Power BI, and AI Engineering**
 - 💬 Let's talk data pipelines, dashboards, or LLM-powered applications
